@@ -1,4 +1,4 @@
-<FRONT>
+# <FRONTEND>
 This is a Next.js project bootstrapped with create-next-app.
 
 Getting Started
@@ -29,7 +29,7 @@ The easiest way to deploy your Next.js app is to use the Vercel Platform from th
 
 Check out our Next.js deployment documentation for more details.
 
-<BACKEND>
+# <BACKEND>
 Just express server. 
 
 Step 1. npm install
